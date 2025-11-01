@@ -46,12 +46,12 @@ A **Django REST Framework (DRF)** project that allows users to create, view, RSV
 
 ##  Installation & Setup
 
-### 1️ Clone the repository
-### 2 Create and activate a virtual environment
-### 3 Install dependencies
-### 4 Apply migrations
-### 5 Create a superuser (for Django Admin)
-### 6 Run the development server
+-  Clone the repository
+-  Create and activate a virtual environment
+-  Install dependencies
+-  Apply migrations
+-  Create a superuser (for Django Admin)
+-  Run the development server
 
 ---
 
